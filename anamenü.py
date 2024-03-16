@@ -57,6 +57,7 @@ if secim == "9" :
 secim = input()
 if secim == "10" :
     nothesabı.harfnotu.harfnotumenü ()
+
     
 # 201 ╔
 # 205 ═
