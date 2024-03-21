@@ -5,4 +5,5 @@ font-size:55px"> Proje1-Konsol-Uygulaması </h1>
 <img src="projeresimleri/anamenü.PNG" alt="anamenü">
 Projem anamenü de diğer menüler arassı geçiş yapar.
 Seçmek için istenilen numarayı yazınız.
-<img src="projeresimleri/anamenü.PNG"
+
+<img src="projeresimleri/anamenü.PNG" alt="anamenü">
